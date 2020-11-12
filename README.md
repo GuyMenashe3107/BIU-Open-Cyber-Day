@@ -5,7 +5,9 @@ link: https://github.com/cryptobiu/openday
 original description:
 
 BIU Cyber-Center 2020 Open Day
+
 personal parametres in parameters.xlsx
+
 אתגר תכנות
 
 במסגרת אתגר התכנות תתבקשו לפתור שתי חידות המתוארות בקובץ המצורף
