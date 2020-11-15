@@ -17,3 +17,4 @@ personal parametres in parameters.xlsx
 יש להזין את התשובות בטופס התשובות המופיע במייל שקיבלתם עד השעה 18:00
 
 בין הפותרים נכונה של כל אחת מהחידות יוגרל זוג אוזניות אלחוטיות 
+solved both of them, but didn't win the headsets.
